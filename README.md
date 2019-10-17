@@ -13,7 +13,7 @@
 ## how to use
 
  1. put this and the input file in folder, check Pandas (and the other packages)
- 2. then just run the cell below -> output will be 'svgOut.svg'
+ 2. then just run the coding cell in Jupyter notebook -> output will be 'svgOut.svg' (or `python svgant.py`)
  3. params can be changed below in svgParameters
 
 ## Next dev steps: 
