@@ -4,9 +4,9 @@
     
 - takes 'datalist.csv' as input, like this:
 
-`START\tEND\tLABEL`
+`START \t END \t LABEL`
 
-`2019-01-01 15:22\t2019-01-02\tsome comment to appear on svg (not too much)`
+`2019-01-01 15:22 \t 2019-01-02 \t some comment to appear on svg (not too much)`
 
 - Pandas v0.25
 
