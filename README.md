@@ -12,8 +12,7 @@
 
 ## how to use
 
- 1. put this and the input file in folder, check Pandas (and the other packages)
-     - the notebook and python scrips have the same functionality
+ 1. put `svgant.py` and `datelist.csv` in folder, check requirements
  2. `python svgant.py` -> output will be 'svgOut.svg'
  3. params can be changed below in svgParameters
 
